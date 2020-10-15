@@ -13,7 +13,9 @@ pandas
 seaborn
 matplotlib
 
+![Stock Corr](https://github.com/varun-d/investment-correlation-py/blob/main/Returns%20Corr%20ETF%20Stocks.png)
+
 # Further Reading
 
-https://quant.stackexchange.com/questions/489/correlation-between-prices-or-returns
-https://quantdare.com/correlation-prices-returns/
+[Corr on StackExchange](https://quant.stackexchange.com/questions/489/correlation-between-prices-or-returns)
+[Corr between prices or returns](https://quantdare.com/correlation-prices-returns/)
